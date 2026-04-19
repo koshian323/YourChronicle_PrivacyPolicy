@@ -20,6 +20,7 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
+*   [ironSource](https://cdn.iads.unity3d.com/privacy-policy/privacypolicy.html)
 
 **Log Data**
 
