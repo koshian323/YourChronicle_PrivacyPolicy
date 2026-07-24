@@ -19,8 +19,20 @@ Link to the privacy policy of third-party service providers used by the app
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 *   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [Firebase Authentication](https://firebase.google.com/support/privacy)
+*   [Cloud Firestore](https://firebase.google.com/support/privacy)
 *   [Unity](https://unity3d.com/legal/privacy-policy)
 *   [ironSource](https://cdn.iads.unity3d.com/privacy-policy/privacypolicy.html)
+
+**Cloud Save Feature**
+
+Our Service offers an optional Cloud Save feature that allows you to back up and restore your game progress across devices. To use this feature, you will be asked to create an account using an email address and password.
+
+*   Your email address is used for account authentication and is managed by Firebase Authentication (a service provided by Google). While registered email addresses are visible to us in the Firebase Authentication management console, we do not use this information or contact you based on it.
+*   Your password is managed by Firebase Authentication and is stored in a hashed form. We do not have access to your password in plain text.
+*   Your game progress data (save data) is stored using Cloud Firestore (a service provided by Google). While access from client applications is restricted to your own authenticated account, we, as the service provider, retain administrative access to the stored data as necessary to operate, maintain, and troubleshoot the Service.
+*   The save data itself contains only information related to your in-game progress and does not include any personally identifiable information or device information.
+*   This feature is entirely optional. If you do not wish to provide this information, you may continue to use the Service without creating an account, using local device storage for your save data instead.
 
 **Log Data**
 
@@ -59,7 +71,7 @@ These Services do not address anyone under the age of 13. We do not knowingly co
 
 We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-This policy is effective as of 2023-02-03
+This policy is effective as of 2026-07-24
 
 **Contact Us**
 
